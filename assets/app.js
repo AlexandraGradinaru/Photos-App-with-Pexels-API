@@ -1,6 +1,6 @@
 
 //Pexels API key
-const authKey = "563492ad6f91700001000001c281fd389b0b46cab0696a6e080f7098";
+
 const gallery = document.querySelector('.main-body__gallery');
 const searchInput = document.querySelector('.form-input');
 const form = document.querySelector('.main-body__form');
